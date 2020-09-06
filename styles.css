@@ -80,13 +80,13 @@ header .profile-image {
     margin-top: 50px;
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 100%;
     border: 3px solid white;
     transition: all .5s;
 }
 
 header .profile-image:hover {
-    transform: scale(1.2) rotate(5deg);
+    transform: scale(2) rotate(180deg);
 }
 
 .tag {
